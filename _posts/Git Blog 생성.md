@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Git Blog 생성"
+date:   2021-05-01 18:56:00
+blurb: ""
+og_image:
+---
+
 # Git Blog 생성
 
 드디어 깃 블로그를 생성했다...!
