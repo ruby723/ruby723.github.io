@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-This my Study Blog.
+스터디,프로젝트.
 <br />
