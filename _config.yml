@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: JEONGLOG, 나를 개발하다.
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  JEONGLOG, 나를 개발하다.
 baseurl: "" # the subpath of the site
 url: "https://ruby723.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -13,8 +13,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-      slug: work
+    - name: Project
+      slug: project
+    - name: Study
+      slug: study
     - name: Blog
 
 footer:

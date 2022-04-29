@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/profile.jpeg
   alt: website picture
 ---
 
@@ -16,6 +16,11 @@ profile_picture:
 </p>
 -->
 
-<p>
-  대학생, Fullstack, 졸작 작업중..
-  </p>
+**React와 JavaSpring을 사용해**
+<br/>
+**ERP프로그램과 금융 서비스를 개발하는 신입 개발자 입니다.**
+<br/>
+일단 시작하고 봅니다.
+
+---
+SQL, JavaScript, OS
