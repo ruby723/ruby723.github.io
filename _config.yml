@@ -13,11 +13,11 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Project
-      slug: project
-    - name: Study
-      slug: study
-    - name: Blog
+    - name: skill
+      slug: skill
+    - name: study
+      # slug: study
+    # - name: Blog
 
 footer:
   show_powered_by: true

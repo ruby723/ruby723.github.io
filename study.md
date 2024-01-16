@@ -1,8 +1,7 @@
 ---
 layout: study
-title: Study
+title: study
 slug: /study
 ---
 
-스터디
 <br />

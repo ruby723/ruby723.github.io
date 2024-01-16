@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git Blog 생성"
-date:   2021-05-01 18:56:00 +0900
+date:   2021-05-01 18:56:00
 blurb: ""
 og_image:
 ---
